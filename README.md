@@ -3,6 +3,6 @@
 [click here to visit](https://turkeybotlist.gq)
 ### some information about me
 i live in turkey
-idk why am i doing this
+idk why am i doing this\n
 if you want to contact me [click here](mailto:reis@turkeybotlist.gq)
 ## **bye**
