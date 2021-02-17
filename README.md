@@ -1,6 +1,6 @@
 # hey
 ### im noob at coding but i still have an site
-[click here to vist](https://turkeybotlist.gq)
+[click here to visit](https://turkeybotlist.gq)
 ### some information about me
 i live in turkey
 idk why am i doing this
