@@ -1,10 +1,9 @@
-# hey
-### im noob at coding but i still have an site
-[click here to visit](https://turkeybotlist.gq)
-### some information about me
-i live in turkey
-
-idk why am i doing this
-
-if you want to contact me [click here](mailto:reis@turkeybotlist.gq)
-## **bye**
+# Hi there, im reis.
+## Im a developer thats dumb and doesn't know that much coding.
+- Stuff that i made:
+  - [Unnamed lib](https://github.com/reisxd/unnamed-lib), a discord bot library written in javascript.
+  - [Turkey List](https://turkeylist.gq), a discord bot list, server list, code list and uptime service.
+  - [Anti Toxicity](https://discord.com/oauth2/authorize?client_id=837241638581305384&permissions=74752&scope=bot), a discord bot that deletes toxic messages!
+## How can you contact me:
+  - [By discord](https://discord.com/users/694963006970527826)
+  - [By emailing me](mailto:reis@turkeylist.gq)
