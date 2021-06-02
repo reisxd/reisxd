@@ -7,3 +7,5 @@
 ## How can you contact me:
   - [By discord](https://discord.com/users/694963006970527826)
   - [By emailing me](mailto:reis@turkeylist.gq)
+## My stats that doesnt mean anything:
+![Stats](https://github-readme-stats.vercel.app/api?username=reisxd&theme=algolia)
